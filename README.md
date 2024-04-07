@@ -1,2 +1,3 @@
 # Blog-crawler
-爬取微博评论数据
+
+Get blog text.
